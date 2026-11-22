@@ -14,6 +14,13 @@ This project explores flight delays, cancellations, and airline performance acro
 
 The goal is to turn flight operations data into an interactive dashboard that helps users identify patterns, compare airlines and airports, and investigate potential operational issues.
 
+## Data Source
+
+The analysis is based on a 2015 US flight dataset provided as part of a Data Analytics training course.
+
+This is an educational portfolio project developed to demonstrate data visualization, KPI analysis, and interactive dashboard design using Tableau.
+
+
 ## Tools & Skills
 
 - **Tableau Public** — interactive dashboard development
