@@ -4,6 +4,10 @@
 
 **[Explore the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/alexander.nefedov/viz/USFlightDelaysCancellations2015/DashboardMain)**
 
+## Dashboard Preview
+
+![US Flight Delays and Cancellations Dashboard](tableau-dashboard-preview.png)
+
 ## Project Overview
 
 This project explores flight delays, cancellations, and airline performance across US airports using 2015 flight data.
