@@ -52,6 +52,18 @@ Compare airlines using average departure delay, delayed flight volume, and delay
 
 Filter results by month, quarter, airport size, and selected airport or airline. Switch between available comparison views.
 
+## Key Insights
+
+1. **Overall Flight Performance:** The selected dataset contains approximately 198,000 flights, including 3,000 cancellations (1.5%), 37,900 delayed departures, and 37,600 delayed arrivals.
+
+2. **Airline Cancellation Rates and Flight Volume:** Cancellation rates vary considerably across airlines. American Eagle Airlines has the highest cancellation rate among the airlines displayed (5.1%), compared with just 0.6% for Delta Air Lines. Bar color intensity represents flight volume, with darker blue indicating more flights operated by an airline. This additional dimension helps assess cancellation rates in the context of each airline's operational scale.
+
+3. **Arrival Delay Rates and Flight Volume:** JetBlue Airways shows an arrival delay rate of 23.1%, while Alaska Airlines records 12.5%. Here, too, darker bars represent higher flight volumes. Combining delay rates with flight volume provides a more informative comparison, helping distinguish airlines with high delay rates and relatively few flights from those whose delays affect a larger number of operations.
+
+4. **Cancellation and Delay Analysis:** The butterfly charts compare overall flight cancellation and delay rates across airports and airlines with the corresponding rates attributable to airport- and airline-related causes. This side-by-side comparison helps distinguish overall performance from the factors directly associated with each airport or airline, providing a more meaningful basis for evaluating operational performance.
+
+*Note: These observations are based on the selected dashboard filters and the 2015 training dataset.*
+
 ## Live Dashboard
 
 [Open US Flight Delays & Cancellations | 2015](https://public.tableau.com/app/profile/alexander.nefedov/viz/USFlightDelaysCancellations2015/DashboardMain)
